@@ -1,1 +1,2 @@
-This FleetManagementV01 Using Fleet Management Web Appilocation. Self Vehicle and Vehicle partners vehicle income Management and Driving Partners Income Management 
+This FleetManagementV01 Using Fleet Management Web Appilocation. Self Vehicle and Vehicle partners vehicle income Management and Driving Partners Income Management. any body help me this project please rewrite any code. 
+I am still learning ASP.NET Core Developer. Accordingly, I am making this application by imitating my learning so that I can make it in the real world. I have problem in front-end. If any developer wants to help me then he can help me in this project
